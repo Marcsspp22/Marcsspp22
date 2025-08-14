@@ -42,8 +42,9 @@ Observação: altere email/LinkedIn no fim. Se algum GIF privado expirar, baixe-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25oeXI1cmhqNWFheG4xNHV3N2NwNXQwMHJxbG12MGV1Y3M4NmN0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtoqXlE4LUCPiQ1seh/giphy.gif" height="160" alt="tower-neon"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTh6OWZwZGgyYjUxNHlxeW9iMmZsdzg3NWtzaGNwb24weHNldmhhNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" height="160" alt="python-gif"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG1kZ3M5dG41MWE4NTF3cm1ibmh1NXJ0cWg3a3pocGEycmtoZ3U1dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/KoOicMeAaGMLzO0pOF/giphy.gif" height="160" alt="sql-gif"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzc1dWlxNzMxc2Q0aHpqZm5qNXhrM2ttNWlxNzUyNzIzYWhlZTY1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" height="160" alt="sql-gif"/>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo5eXY5djMzNG1wdTZhZjh4OTIzOTcxaDl1OG02eXBnaHIzZ2tsMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif" height="160" alt="anime-glitch"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTV6aXhpZ2tibXMyOXY2enJndDF1OW8zNHI4Y2NsNHZoY2U5dDgwOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EGcbDftfJ5ocM/giphy.gif" height="160" alt="anime-glitch"/>
 </p>
 
 <!-- Sticker adicional (link com token pode expirar) -->
