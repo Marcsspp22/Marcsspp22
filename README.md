@@ -130,13 +130,13 @@
 <h3 align="center"> C O N T A T O </h3>
 
 <p align="center">
+  <!-- Email -->
   <a href="mailto:marcsspmm@gmail.com" title="Enviar e-mail">
-    <img src="https://img.shields.io/badge/Email-%20-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1F1F1F&color=1F1F1F" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="48" alt="Email" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/marcos-magalh%C3%A3es-61ba15188/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-%20-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1F1F1F&color=1F1F1F" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
   </a>
-</p>
-
 </p>
