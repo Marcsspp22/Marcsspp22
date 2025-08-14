@@ -130,10 +130,10 @@
 <h3 align="center"> C O N T A T O </h3>
 
 <p align="center">
-  <a href="mailto:seuemail@exemplo.com">
+  <a href="marcsspmm@gmail.com">
     <img src="https://img.shields.io/badge/Email-1F1F1F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/SEULINKEDIN/">
+  <a href="www.linkedin.com/in/marcos-magalhães-61ba15188">
     <img src="https://img.shields.io/badge/LinkedIn-1F1F1F?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
 </p>
