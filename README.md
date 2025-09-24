@@ -105,23 +105,6 @@
   <img alt="Divisor gradiente" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=footer&color=gradient&reversal=true&text=&fontColor=00000000">
 </p>
 
-<!-- ============================== ENTRETENIMENTO ============================== -->
-<h3 align="center"> E N T R E T E N I M E N T O </h3>
-
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb25oeXI1cmhqNWFheG4xNHV3N2NwNXQwMHJxbG12MGV1Y3M4NmN0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dtoqXlE4LUCPiQ1seh/giphy.gif" height="160" alt="GIF 1"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OTV6aXhpZ2tibXMyOXY2enJndDF1OW8zNHI4Y2NsNHZoY2U5dDgwOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/EGcbDftfJ5ocM/giphy.gif" height="160" alt="GIF 2"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVjZnkyc2Z1Znp5Y2djazQ4MmU5MjE4anIwZ2p6M3d1dzhweGdjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/e0rWnmJj0VYh8eiK3F/giphy.gif" height="160" alt="GIF 3"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWtsbjdjNHlhc2x4OGh1dHBvZDR1YzExM3luZDRtcGdyN3M0N3RrMSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ssm0SSwVbICGc/giphy.gif" height="160" alt="GIF 4"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlhMWwxb3Ntc24wdmpmeHM3dm54dmpueWZkZzJ6bXp3bWkzc2owMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Lpi3F7hFedErKjGvvC/giphy.gif" height="160" alt="GIF 5"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3djdydHV6bno4bWFucnQxN3drN2tlOWNsMW4xZWdieTh5aGlkOXUydCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3GjfgbG12klX2/giphy.gif" height="160" alt="GIF 6"/>
-</p>
-
-<p align="center">
-  <img alt="Divisor gradiente" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=footer&color=gradient&reversal=true&text=&fontColor=00000000">
-</p>
-
-
 <!-- ============================== CONTATO ============================== -->
 <h3 align="center"> C O N T A T O </h3>
 
