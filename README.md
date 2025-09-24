@@ -96,12 +96,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTh6OWZwZGgyYjUxNHlxeW9iMmZsdzg3NWtzaGNwb24weHNldmhhNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/LMt9638dO8dftAjtco/giphy.gif" height="160" alt="GIF princípios 1"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzc1dWlxNzMxc2Q0aHpqZm5qNXhrM2ttNWlxNzUyNzIzYWhlZTY1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif" height="160" alt="GIF princípios 2"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo5eXY5djMzNG1wdTZhZjh4OTIzOTcxaDl1OG02eXBnaHIzZ2tsMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif" height="160" alt="GIF princípios 3"/>
-</p>
-
-<p align="center">
   <img alt="Divisor gradiente" src="https://capsule-render.vercel.app/api?type=rect&height=6&section=footer&color=gradient&reversal=true&text=&fontColor=00000000">
 </p>
 
